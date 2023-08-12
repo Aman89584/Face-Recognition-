@@ -1,2 +1,3 @@
 # Face-Recognition-
-Real Time Database face recognition system for collages (using opencv and firebase)  
+Real-Time Database face recognition system for collages (using OpenCV and Firebase
+In this, we build an AI face recognition system for attendance in colleges | 
